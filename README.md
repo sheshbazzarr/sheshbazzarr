@@ -1,4 +1,37 @@
-<h2 align="center">Hi 👋! My name is Daniel  and I'm a Creative Dev  from Ethiopia</h2>
+
+<br clear="both">
+
+<h4 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFD700&background=228B2230&center=true&vCenter=true&width=600&lines=Hi+👋!+My+name+is+Daniel;I'm+a+Creative+Dev+from+Ethiopia" alt="Typing SVG" />
+</h4>
+
+```javascript
+const Daniel = {
+  code: ["Python", "JavaScript", "Java"],
+  frontend: ["React", "CSS"],
+  backend: ["Spring", "Flask", "FastAPI"],
+  databases: ["MySQL", "MongoDB"],
+  tools: ["Git", "Docker", "Postman", "VSCode"],
+  education: {
+    "Addis Ababa University": "Software Engineering (May 2021 - May 2023)",
+    "University of the People": "Computer Science (Aug 2023 - Aug 2026)",
+    "World Global Bible College": "Theology (Dec 2024 - May 2027)",
+    "ALX": [
+      "Software Engineering - Backend (May 2023 - Feb 2025)",
+      "Soft Skills for Software Engineering",
+      "Founder Academy"
+    ],
+    "Explore AI": "Data Science (2023 - 2024)",
+    "DataCamp": [
+      "Associate AI Engineer for Data Scientists",
+      "Deep Learning in Python",
+      "Machine Learning Scientist in Python",
+      "Data Scientist Associate",
+      "Machine Learning Engineer"
+    ]
+  },
+  experience: [],
+}
 
 ###
 
@@ -47,34 +80,16 @@
   <a href="https://www.instagram.com/daniel.demrew/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="demerwdani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/danieldemerw/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/MrPervect" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  <a href="https://medium.com/@danieldemerw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
 </div>
-
-###
-
-<img align="right" height="150" src=""  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheshbazzarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheshbazzarr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sheshbazzarr/sheshbazzarr/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -83,21 +98,34 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheshbazzarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheshbazzarr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sheshbazzarr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sheshbazzarr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheshbazzarr&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sheshbazzarr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sheshbazzarr/count.svg?"  />
-</div>
+<img align="right" src="https://profile-counter.glitch.me/sheshbazzarr/count.svg?"  />
 
 ###
 
@@ -107,16 +135,9 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//sheshbazzarr/sheshbazzarr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//sheshbazzarr/sheshbazzarr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sheshbazzarr/sheshbazzarr/output/github-snake.svg" />
+</picture>
