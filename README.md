@@ -13,9 +13,6 @@ const Daniel = {
   databases: ["MySQL", "MongoDB"],
   tools: ["Git", "Docker", "Postman", "VSCode"],
   education: {
-    "Addis Ababa University": "Software Engineering (May 2021 - May 2023)",
-    "University of the People": "Computer Science (Aug 2023 - Aug 2026)",
-    "World Global Bible College": "Theology (Dec 2024 - May 2027)",
     "ALX": [
       "Software Engineering - Backend (May 2023 - Feb 2025)",
       "Soft Skills for Software Engineering",
