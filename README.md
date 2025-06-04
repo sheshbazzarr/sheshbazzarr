@@ -2,7 +2,7 @@
 <br clear="both">
 
 <h4 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFD700&background=228B2230&center=true&vCenter=true&width=600&lines=Hi+👋!+My+name+is+Daniel;I'm+a+Creative+Dev+from+Ethiopia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFD700&background=228B2230&center=true&vCenter=true&width=600&lines=Hi+👋!+My+name+is+Daniel;from+Ethiopia" alt="Typing SVG" />
 </h4>
 
 ```javascript
